@@ -348,6 +348,12 @@ select {
   color: #475569;
 }
 
+.team-count {
+  color: #003c71;
+  font-size: 24px;
+  font-weight: 700;
+}
+
 /* Mobile responsive */
 @media (max-width: 768px) {
   .hero {
